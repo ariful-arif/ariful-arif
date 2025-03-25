@@ -16,13 +16,5 @@ Skills: Flutter / Dart / Laravel / PHP / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ariful-arif)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ariful-arif)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ariful-arif&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ariful-arif/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ariful-arif)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ariful-arif)  
 
