@@ -1,16 +1,29 @@
-## Hi there 👋
+![I am Software Developer](https://images.deepai.org/art-image/e3e532998d074afb994b9dcd8f8102fc/a-realistic-digital-painting-of-a-software-developer-.jpg)
+### Hi there 👋, I'm Ariful Hasan
+#### I am Software Developer
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Flutter / Dart / Laravel / PHP / HTML / CSS 
+
+- 🔭 I’m currently working on creativeitem 
+- 🌱 I’m currently learning Flutter bloc, Laravel 
+- 💬 Ask me about Mobile and Web Development 
 
 
-**ariful-arif/ariful-arif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ariful-arif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ariful-hasan-arif//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/167jYfRWMH/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arif-hasan.netlify.app/)  
 
-Here are some ideas to get you started:
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ariful-arif)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ariful-arif)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ariful-arif&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ariful-arif/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/ariful-arif)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ariful-arif)  
 
