@@ -28,4 +28,75 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariful-arif&" alt="ariful-arif" /></p>
 
+# Md. Ariful Hasan
+
+## 📚 About Me
+
+I am a software developer with a passion for building mobile apps using Flutter and web applications using Laravel. I have a diverse skill set and always strive to expand my knowledge and expertise in the field of software engineering. Currently, I am working at Creativeitem, where I am involved in developing innovative software solutions.
+
+Connect with me:
+- Website: [ariful-hasan.com](https://ariful-hasan.com)
+- Blog: [medium.com/@arifulhasan](https://medium.com/@arifulhasan)
+- LinkedIn: [linkedin.com/in/ariful-hasan](https://linkedin.com/in/ariful-hasan)
+
+## 🚀 Skills
+
+I have experience working with the following programming languages:
+
+- Dart
+- C++
+- CMake
+- Swift
+- C
+- HTML
+- Kotlin
+- Objective-C
+
+As a result of my diverse skill set, I am comfortable working on different projects using a variety of frameworks and technologies.
+
+## 💼 Projects
+
+Here are some of my notable projects:
+
+- `ariful-arif`
+- `riverpod_operations`
+
+These projects demonstrate my expertise in both Flutter and Laravel development. While I can't provide detailed descriptions of each project, you can find more information about them in the respective repositories on my GitHub profile.
+
+## 📊 GitHub Activity
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ariful-arif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful-arif)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ariful-arif)](https://github.com/ariful-arif)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ariful-arif)](https://git.io/streak-stats)
+
+These stats showcase my GitHub activity and contributions, highlighting my dedication to continuous learning and development. You can see a summary of my overall GitHub presence, including the number of public repositories and commits made.
+
+## 🌐 Contributions
+
+I have contributed to the following external repositories:
+
+- [saibotma/jitsi_meet_wrapper](https://github.com/saibotma/jitsi_meet_wrapper)
+- [jitsi/jitsi-meet-flutter-sdk](https://github.com/jitsi/jitsi-meet-flutter-sdk)
+
+While the specific nature of my contributions and their impact on these projects cannot be determined from the available data, the fact that I actively engage with external projects demonstrates my willingness to collaborate and contribute to the open-source community.
+
+## 🔧 Contact
+
+Feel free to reach out to me for any collaborations, project inquiries, or general discussions. You can connect with me via the following platforms:
+
+- Email: [ariful.hasan@email.com]()
+- Twitter: [@arifulhasan](https://twitter.com/arifulhasan)
+
+Let's connect and make great things together!
+
+## 🎉 Badges
+
+Here are some badges that showcase my GitHub profile:
+
+[![GitHub followers](https://img.shields.io/github/followers/ariful-arif?style=social)](https://github.com/ariful-arif)
+[![GitHub stars](https://img.shields.io/github/stars/ariful-arif?style=social)](https://github.com/ariful-arif)
+
+
+
 
